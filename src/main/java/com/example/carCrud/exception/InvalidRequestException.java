@@ -1,4 +1,4 @@
-package com.example.carCrud;
+package com.example.carCrud.exception;
 
 import org.springframework.validation.FieldError;
 import org.springframework.validation.BindingResult;
